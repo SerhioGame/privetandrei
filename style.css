@@ -1,0 +1,26 @@
+.div .b {
+    color: red;
+}
+.div {
+    background: aqua;
+    width: 2000px;
+    height: 1234px;
+}
+.div .p3 {
+    border: red;
+    border-width: 20px;
+    border-style:ridge;
+}
+.div3 .p {
+    text-align: center;
+    font-size: 80px;
+}
+.div3 .img .img1 {
+    width: 1000px;
+}
+.div3 > a{
+    font-size: 50px;
+}
+.div .p4 {
+    font-size: 50px;
+}
