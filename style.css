@@ -9,22 +9,32 @@
 }
 .div .p3 {
     border: red;
-    border-width: 20px;
+    border-width: 6px;
     border-style:ridge;
 }
 .div3 .p {
     text-align: center;
-    font-size: 80px;
+    font-size: 30px;
 }
 .div3 .img .img1 {
-    width: 1000px;
+    width: 300px;
 }
 .div3 > a{
     font-size: 50px;
 }
 .div .p4 {
-    font-size: 50px;
+    font-size: 20px;
 }
-.div3 {
+
+
+.div{
+    
     flex-wrap: wrap;
+}
+.stop>a{
+    font-size: 25px;
+}
+.stop > img{
+    width: 290px;
+    display: flex;
 }
