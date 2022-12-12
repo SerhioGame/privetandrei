@@ -3,7 +3,7 @@
 }
 .div {
     background: aqua;
-    width: 2000px;
+    width: 1500px;
     height: 1234px;
     flex-wrap: wrap;
 }
