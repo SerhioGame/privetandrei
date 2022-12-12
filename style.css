@@ -5,6 +5,7 @@
     background: aqua;
     width: 2000px;
     height: 1234px;
+    flex-wrap: wrap;
 }
 .div .p3 {
     border: red;
@@ -23,4 +24,7 @@
 }
 .div .p4 {
     font-size: 50px;
+}
+.div3 {
+    flex-wrap: wrap;
 }
