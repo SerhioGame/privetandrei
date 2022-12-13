@@ -2,7 +2,7 @@
     color: red;
 }
 .div {
-    background: aqua;
+    background: red;
     width: 1500px;
     height: 1234px;
     flex-wrap: wrap;
@@ -38,3 +38,6 @@
     width: 290px;
     display: flex;
 }
+
+
+
