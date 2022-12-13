@@ -2,8 +2,8 @@
     color: red;
 }
 .div {
-    background: red;
-    width: 1500px;
+    background: aqua;
+    width: 2500px;
     height: 2000px;
     flex-wrap: wrap;
 }
