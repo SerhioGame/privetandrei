@@ -1,10 +1,10 @@
+body {
+    background: aqua;
+}
 .div .b {
     color: red;
 }
 .div {
-    background: aqua;
-    width: 2500px;
-    height: 2000px;
     flex-wrap: wrap;
 }
 .div .p3 {
