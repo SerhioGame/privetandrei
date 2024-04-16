@@ -1,7 +1,8 @@
 body{
+    background-color: black;
+}
+p{
     text-align: center;
     font-size: 8px;
-    color: rgb(255, 255, 255);
-    background-color: black;
-    display: block;
+    color: white;
 }
