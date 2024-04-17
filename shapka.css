@@ -1,12 +1,11 @@
 body{
     background-color: black;
-    padding: 220px;
+    margin: 260px;
 }
 p{
     text-align: center;
-    font-size: 10px;
+    font-size: 8px;
     color: rgb(255, 255, 255);
+    padding: 15px;
     
-    width: 250px;
-    padding: 10px;
 }
