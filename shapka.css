@@ -1,18 +1,13 @@
 body{
     background-color: black;
-    margin: 112px;
+    margin: 100px;
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 23px;
+    padding: 20px;
 }
 p{
-    font-size: 6px;
+    font-size: 12px;
     color: rgb(255, 255, 255);
    
-}
-audio {
-    width: 85px;
-    color: black;
-    fnt-size: 50px;
 }
