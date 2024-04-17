@@ -1,9 +1,10 @@
 body{
     background-color: black;
-    margin: 130px;
+    margin: 110px;
     align-items: center;
     justify-content: center;
     text-align: center;
+    padding: 30px;
 }
 p{
     font-size: 6px;
