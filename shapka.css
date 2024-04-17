@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    margin: 80px;
+    margin: 180px;
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -8,8 +8,8 @@ body{
 p{
     font-size: 6px;
     color: rgb(255, 255, 255);
-    padding: 10px;
-    margin:  10px;
+    padding: 8px;
+    margin:  8px;
    
 }
 audio {
