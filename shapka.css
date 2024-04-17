@@ -4,8 +4,8 @@ body{
 }
 p{
     text-align: center;
-    font-size: 10px;
+    font-size: 7px;
     color: rgb(255, 255, 255);
-    padding: 15px;
-    
+    padding: 14px;
+    margin:  14px;
 }
