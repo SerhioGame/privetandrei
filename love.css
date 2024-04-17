@@ -1,11 +1,11 @@
 body{
     background-color: black;
-    font-family: 'Marck Script', sans-serif;
-    margin: 99px;
+    font-family: 'Marck Script';
+    margin: 96px;
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 22px;
+    padding: 23px;
 }
 p{
     font-size: 10px;
