@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    font-family: 'Marck Script',cursive;
+    margin: 30px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+.centr{
+   
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    padding: 0px;
+   
+}
