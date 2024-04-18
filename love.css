@@ -1,14 +1,14 @@
 body{
     background-color: black;
     font-family: 'Marck Script',cursive;
-    margin: 93px;
+    margin: 91px;
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 22px;
+    padding: 20px;
 }
 p{
-    font-size: 12px;
+    font-size: 14px;
     color: rgb(255, 255, 255);
    
 }
