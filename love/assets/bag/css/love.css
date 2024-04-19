@@ -14,3 +14,33 @@ body{
     padding: 0px;
    
 }
+.button {
+    align-items: center;
+    justify-content: center;
+    padding: 1px 1px;
+    color: red;
+    text-transform: uppercase;
+    font-size: 15px;
+    text-decoration: none;
+    transition: background .8s linear,
+        color .9s linear;
+    margin: 20px;
+    
+
+
+}
+.button1 {
+    align-items: center;
+    justify-content: center;
+    padding: 1px 1px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+    text-decoration: none;
+    transition: background .8s linear,
+        color .9s linear;
+    margin: 20px;
+    
+
+
+}
