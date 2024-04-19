@@ -7,23 +7,9 @@ body{
 }
 
 .cis{
-    
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%,50%);
-}
-.button {
-    align-items: center;
-    justify-content: center;
-    padding: 3px 10px;
     color: white;
-    text-transform: uppercase;
-    font-size: 10px;
-    text-decoration: none;
-    transition: background .8s linear,
-        color .9s linear;
-    
-
-
+    position: absolute;
+    left: 56%;
+    top: 40%;
+    transform: translate(-50%,50%);
 }
